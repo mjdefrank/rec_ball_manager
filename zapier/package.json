@@ -1,7 +1,7 @@
 {
-  "name": "untitled-application",
+  "name": "rec-ball-manager",
   "version": "1.0.0",
-  "description": "Integrate Zapier with Untitled Application",
+  "description": "Integrate Zapier with Rec Ball Manager",
   "main": "index.js",
   "scripts": {
     "test": "mocha --recursive -t 10000"
